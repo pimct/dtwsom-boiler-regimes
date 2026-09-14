@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper listed under preferred-citation."
+title: "DTW-SOM and LSTM framework for unsupervised classification of industrial boiler operation signals"
+type: software
+license: MIT
+repository-code: "https://github.com/<org>/<repo>"
+authors:
+  - family-names: Nimmanterdwong
+    given-names: Prathana
+    affiliation: "Department of Chemical Technology, Faculty of Science, Chulalongkorn University"
+preferred-citation:
+  type: article
+  title: "Unsupervised classification of industrial boiler operation signals using Dynamic Time Warping Self-Organizing Map (DTW-SOM) and Long Short-Term Memory (LSTM) framework"
+  authors:
+    - family-names: Nimmanterdwong
+      given-names: Prathana
+    - family-names: Chalermsinsuwan
+      given-names: Benjapon
+    - family-names: Piemjaiswang
+      given-names: Ratchanon
+    - family-names: Khaisri
+      given-names: Sakarin
+    - family-names: Takhonram
+      given-names: Chularak
+    - family-names: Chaiwat
+      given-names: Weerawut
+  year: 2026
+  journal: "<journal>"
+  doi: "<doi>"
